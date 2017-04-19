@@ -1,0 +1,39 @@
+.black {
+  background-color: black;
+}
+
+.small {
+  height: 30px;
+}
+
+.medium {
+  height: 70px;
+}
+
+.large {
+  height: 250px;
+}
+
+.extra-large {
+  height: 400px;
+}
+
+.buffer {
+  margin-right: 48px;
+}
+
+.top-buffer {
+  margin-top: 24px;
+}
+
+.small-buffer {
+  margin-bottom: 35px;
+}
+
+.medium-buffer {
+  margin-bottom: 55px;
+}
+
+.large-buffer {
+  margin-bottom: 65px;
+}
